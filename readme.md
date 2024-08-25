@@ -1,6 +1,3 @@
-Voici un exemple de fichier `README.md` pour votre API simple en PHP et MySQL.
-
-```markdown
 # API REST Simple en PHP et MySQL
 
 Cette API REST simple, développée en PHP, permet de récupérer des données depuis une base de données MySQL. L'API répond aux requêtes `GET` et retourne une liste de produits au format JSON.
